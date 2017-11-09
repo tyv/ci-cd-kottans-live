@@ -2,6 +2,7 @@
   "name": "ci-cd-kottans-live",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://tyv.github.io/ci-cd-kottans-live/",
   "dependencies": {
     "react": "^16.1.0",
     "react-dom": "^16.1.0",
